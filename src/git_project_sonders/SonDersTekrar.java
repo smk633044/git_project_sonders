@@ -1,10 +1,11 @@
 package git_project_sonders;
 
-public class OrtakCalisma {
+public class SonDersTekrar {
 
 	public static void main(String[] args) {
-
-	System.out.println("Baki den selamlar");	
+ System.out.println("21:55 - master branch");
+		
+		
 		
 		
 	}
